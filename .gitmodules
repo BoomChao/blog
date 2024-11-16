@@ -1,3 +1,6 @@
 [submodule "hugo/quickstart/themes/themes/ananke"]
 	path = hugo/quickstart/themes/themes/ananke
 	url = git@github.com:adityatelange/hugo-PaperMod.git
+[submodule "hugo/quickstart/themes/PaperMod"]
+	path = hugo/quickstart/themes/PaperMod
+	url = git@github.com:adityatelange/hugo-PaperMod.git
